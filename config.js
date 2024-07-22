@@ -42,56 +42,56 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['201020182886'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = '𝐒𝐍𝐈𝐏𝐄𝐑' //ur owner name
 
-global.ytname = "YT: AlienAlfa" //ur yt chanel name
+global.ytname = "Tele: EG_SNIPER" //ur yt chanel name
 
-global.socialm = "GitHub: Alien-Alfa" //ur github or insta name
+global.socialm = "Insta: _bcqf" //ur github or insta name
 
-global.location = "UK, London, hertfordshire" //ur location
-
-
+global.location = "EG,Cairo" //ur location
 
 
-global.owner = ['447405935355']
 
-global.ownertag = '447405935355' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.owner = ['201020182886']
 
-global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
+global.ownertag = '281020182886' //ur tag number
 
-global.websitex = 'https://www.GITHUB.com/alien-alfa' //ur website to be displayed
+global.botname = "𝐒𝐍𝐈𝐏𝐄𝐑 𝐁𝐎𝐓" //ur bot name
 
-global.botscript = 'https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2' //script link
+global.linkz = 'https://t.me/EG_SNIPER' //your theme url which will be displayed on whatsapp
+
+global.websitex = 'https://youtube.com/EG-SNIPER' //ur website to be displayed
+
+global.botscript = 'https://egsniper.com' //script link
 
 global.reactmoji = "😘" //ur menu react emoji
 
 global.themeemoji = "🐤" //ur theme emoji
 
-global.packname = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
+global.packname = '🐥 𝐒𝐍𝐈𝐏𝐄𝐑 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
 
-global.author = '\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ ' //ur sticker watermark author
-
-
-
-
-
-global.thumz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur thumb pic
-
-global.logoz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur logo pic
-
-global.err4rz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur error pic
-
-global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur thumb pic
+global.author = ' 𝐒𝐍𝐈𝐏𝐄𝐑 ' //ur sticker watermark author
 
 
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.thumz = 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg' //ur thumb pic
+
+global.logoz = 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg' //ur logo pic
+
+global.err4rz = 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg' //ur error pic
+
+global.thumbz = 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg' //ur thumb pic
+
+
+
+
+
+global.premium = global.premiumzz || ['201020182886'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
